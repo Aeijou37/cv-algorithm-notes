@@ -16,7 +16,7 @@
 | 01 | [EBeam 晶圆缺陷分类：从 97.79% 到 100.00% 的长尾破局](articles/01-cxmt-wafer-defect-classification.md) | 长尾 / LDAM / DINOv2 / SigLIP / 小数据 | 已发布 |
 | 02 | [工业X射线无损检测：从两阶段评片到实例分割的全流程闭环](articles/02-iflytek-xray-defect-detection.md) | 超大图 / AHTF切片 / YOLO26-Seg / SDE+DAF / 类别合并 | 已发布 |
 | 03 | 制鞋机器人视觉系统 | 实例分割 / 三维重建 / 点云 / 轨迹落地 / 专利 | 待写 |
-| 04 | 基于 RAG 的本地学术知识库 Agent | LangChain / Chroma / Prompt Engineering | 待写 |
+| 04 | [基于 RAG 的本地学术知识库 Agent](articles/04-rag-academic-qa-agent.md) | LangChain / Chroma / Prompt Engineering | 已发布 |
 
 ## 统一写作结构
 
